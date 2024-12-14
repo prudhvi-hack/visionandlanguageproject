@@ -107,7 +107,7 @@ Run the following commands to download COCO dataset images:
 ```
 
 ### Step 5: Download ImageNet Data
-
+we need to apply in the imagenet website before getting access to the imagenet data at https://image-net.org/index.php
 Download ImageNet test data:
 ```bash
 !wget https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_test_v10102019.tar
